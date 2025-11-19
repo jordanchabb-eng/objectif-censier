@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "name": "jordanchabb-eng",
+  "url": "https://github.com/jordanchabb-eng",
+  "email": "no-reply@example.com"
+}
