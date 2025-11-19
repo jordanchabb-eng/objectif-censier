@@ -3,7 +3,7 @@
   "type": "BadgeClass",
   "name": "Objectif-Censier_2025-2026",
   "description": "",
-  "image": "URL_DE_L_IMAGE_A_METTRE_ICI",
+  "image": "https://raw.githubusercontent.com/jordanchabb-eng/objectif-censier/main/Objectif-Censier_2025-2026.png",
   "issuer": "https://raw.githubusercontent.com/jordanchabb-eng/objectif-censier/main/issuer.json",
   "criteria": {
     "narrative": "Attribué manuellement."
