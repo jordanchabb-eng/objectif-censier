@@ -3,7 +3,7 @@
   "type": "BadgeClass",
   "name": "KINOPRAVDA",
   "description": "",
-  "image": "https://raw.githubusercontent.com/jordanchabb-eng/objectif-censier/main/KINOPRAVDA.png",
+  "image": "https://raw.githubusercontent.com/jordanchabb-eng/objectif-censier/main/KINOPRAVDA.jpg",
   "issuer": "https://raw.githubusercontent.com/jordanchabb-eng/objectif-censier/main/issuer.json",
   "criteria": {
     "narrative": "Attribué à un curieux du Cinéma-Vérité."
