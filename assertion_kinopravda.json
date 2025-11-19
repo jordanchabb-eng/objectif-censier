@@ -1,0 +1,18 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://raw.githubusercontent.com/jordanchabb-eng/objectif-censier/main/assertion_kinopravda.json",
+  "uid": "kinopravda-001",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "jordanchabb@icloud.com"
+  },
+  "badge": "https://raw.githubusercontent.com/jordanchabb-eng/objectif-censier/main/badge_kinopravda.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://raw.githubusercontent.com/jordanchabb-eng/objectif-censier/main/assertion_kinopravda.json"
+  },
+  "issuedOn": "2025-11-19T00:00:00Z",
+  "narrative": "Attribué à un curieux du Cinéma-Vérité."
+}
